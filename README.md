@@ -4,6 +4,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7FF00&center=true&vCenter=true&width=1000&lines=Y-STATION+ONLINE;MICROSERVICE+ARCHITECTURE;AI+MODULES+ACTIVE;ASP.NET+CORE+SYSTEMS;SECURITY+%26+AUTOMATION" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=F7FF00&center=true&vCenter=true&width=1000&lines=Y-MICROSERVICE+ARCHITECTURE;ASP.NET+CORE+SYSTEMS;SECURITY+%26+AUTOMATION" />
 
 </div>
